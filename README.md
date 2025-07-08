@@ -8,9 +8,9 @@
 
 ## Kurulum
 ```bash
-pkg update && pkg upgrade
-pkg install git python libxml2-dev libxslt-dev clang
-pip install -r requirements.txt
+```pkg update && pkg upgrade```
+```pkg install git python libxml2-dev libxslt-dev clang```
+```pip install -r requirements.txt```
 ```
 
 ## Kullanım
